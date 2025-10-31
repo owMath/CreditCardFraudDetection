@@ -1,6 +1,6 @@
 # Projeto Final
 
-Esta página descreve os requisitos para o Projeto Final da disciplina de Egenharia de Redes Neurais Artificiais.
+Esta página descreve os requisitos para o Projeto Final da disciplina de Engenharia de Redes Neurais Artificiais.
 
 ## Objetivo
 
